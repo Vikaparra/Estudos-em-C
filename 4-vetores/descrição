@@ -1,0 +1,7 @@
+Nessa aula aprendemos a utilizar e manipular vetores, nos exercicios fizemos:
+
+Um exercicio de busca linear em vetores, no qual a pessoa insere 20 números em um vetor e depois insere um numero
+aleatório para conferir se ele existe no vetor ou não
+
+Um programa que recebe a quantidade de 10 produtos que foram vendidos em um mercado em um vetor, seus valores em 
+outro vetor e retorna qual foi o faturamento e quantos produtos foram vendidos no total
