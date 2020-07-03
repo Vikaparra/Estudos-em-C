@@ -1,0 +1,9 @@
+Nessa aula aprendemos a manipular strings, confesso que foi um pouco mais trabalhoso, mas foi bem interessante! Os exercicios foram:
+
+Receber uma string e dizer se ela é ou não um palíndromo, sendo que os testes seriam com letras maiusculas e
+minusculas, que deveriam ser desconsideradas no momento da conclusão (então fiz um "for" para transformar tudo
+em letras minusculas)
+
+Receber uma string e imprimi-la ao contrario
+
+(lembrando que na pasta "Trabalhos Maiores" tem mais utilização da manipulação de strings)
