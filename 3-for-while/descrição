@@ -1,0 +1,4 @@
+Nessas aulas aprendemos a utilizar laços, e nos exercicios criei uma calculadora de combinação conjuntos utilizando for, e depois utilizando while
+a calculadora funciona da seguinte maneira:
+recebe o numero de elementos do conjunto (n), o numero de elementos que vão ser agrupados (p) e aplica a seguinte fórmula: n!/(p!*(n-p)!) 
+tive que criar mais variaveis para realizar o cálculo dos fatoriais de maneira mais organizada
