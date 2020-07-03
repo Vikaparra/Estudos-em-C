@@ -1,0 +1,18 @@
+Nessa aula aprendemos a alocar dinamicamente variáveis, vetores, matrizes, structs, etc
+Os exercicios foram:
+
+T10a : implementar um programa que faça a avaliação de polinômios de um grau qualquer, no
+qual ele vai ler o grau do polinomio, ler os coeficientes do polinômio (pontos flutuantes,
+fornecidos do menor para o maior grau) e armazená-los em um vetor dinamicamente alocado, de 
+tamanho adequado ao grau do polinômio, ler o valor de x (ponto flutuante) e retornar o valor resultante.
+
+T10b : Implementar : um programa que leia o número de linhas e colunas de uma matriz,
+seguidos dos valores desta matriz (inteiros), e indique se a matriz é simétrica ou não. Os dados da
+matriz serão fornecidos linha à linha, ou seja, primeiro será preenchida a primeira linha, depois a
+segunda e assim por diante. Seu programa deve usar alocação dinâmica para armazenar a matriz.
+
+T10c :  Criar uma estrutura para armazenar o nome (string com 100 caracteres), ra (número inteiro), 
+nota P1 e nota P2 (valores em ponto flutuante) de um aluno. Em seguida, ler os dados de n alunos 
+(n dado pelo usuário) e os armazenar em um vetor alocado dinamicamente. Por fim, percorrer o vetor
+armazenado e apresentar a média de cada aluno, sendo uma por linha, no formato “RA Nome Média” 
+(valores separados por um‘\t’).
