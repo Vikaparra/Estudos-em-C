@@ -1,0 +1,9 @@
+Nessa aula aprendemos a utilizar ponteiros, as coisas começaram a ficar um pouco confusas e 
+complicadas a partir daí, mas no final deu tudo certo!
+Os exercicios foram:
+
+9Ba : receber 10 números de um vetor A na função main, criar uma função void que armazene
+os numeros do vetor A ao cubo, em um vetor B e depois imprima eles
+
+9Bc : receber um vetor, criar uma função que identifique qual o maior e qual o menor numero
+desse vetor (no caso utilizei um bubble sort e passei o primeiro e o ultimo numero)
