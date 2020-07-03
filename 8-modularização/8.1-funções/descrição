@@ -1,0 +1,16 @@
+Nessa aula aprendemos a criar e utilizar funções, e os exercicios foram:
+
+T9a : criar uma função que calcule o volume de uma esfera (o raio será recebido
+na main e passado como parâmetro)
+
+T9b : criar uma função que realize o cálculo da média de 2 notas, de duas maneiras
+diferentes (se o usuario digitar 'A', calcula de uma forma, se digitar 'B', calcula
+de outra forma)
+
+T9c : criar uma função que realize operações matemáticas com duas varíaveis 
+inseridas pelo usuário, assim como o operador desejado (no caso o input ficaria por
+exemplo: "25 * 42")
+
+______________________________________________________________________________________
+Apenas um detalhe: a enumeração dos exercicios não está batendo com a daqui do github
+porque aqui considerei o "if e else" como mesmo módulo
